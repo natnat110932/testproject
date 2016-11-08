@@ -15,6 +15,12 @@
         <br />
         <br />
         <asp:TextBox ID="TextBox1" runat="server"></asp:TextBox>
+        <asp:Button ID="Button1" runat="server" Text="Button" />
+        <br />
+        <br />
+        <br />
+        <br />
+        <br />
         <br />
     
     </div>
